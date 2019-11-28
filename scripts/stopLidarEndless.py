@@ -12,4 +12,4 @@ lidar.stop()
 lidar.stop_motor()
 
 while True:
-    sleep(100)
+    time.sleep(100)
